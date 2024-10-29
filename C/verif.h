@@ -1,3 +1,4 @@
 #ifndef VERIF
 #define VERIF
-char 
+char check_date(char* day, char* month, char* year);
+#endif
